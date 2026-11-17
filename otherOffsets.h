@@ -1,21 +1,3 @@
-#pragma once
-#include <cstdint>
-
-/* =============================================================
-/*                        gurp's offsets
-/*                       https://gurp.cc
-/* -------------------------------------------------------------
-/*  Dumped With     : gurpDumper
-/*  Roblox Version  : version-4ea8e85481e34f46
-/*  Dumper Version  : 1.0.0
-/*  Dumped At       : 17:47 17/11/2026 (GMT)
-/*  Total Offsets   : 40
-/* -------------------------------------------------------------
-/*  Join the discord!
-/*  https://discord.gg/UZz5rxRjeM
-/* =============================================================
-*/
-
 namespace Offsets {
     inline std::string ClientVersion = "version-4ea8e85481e34f46";
 
